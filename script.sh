@@ -8,6 +8,6 @@ git clone https://github.com/zsh-users/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-completions
 
 cd $pwd
-cp .zshrc ~/.zshrc
+cp zshrc ~/.zshrc
 
 source ~/.zshrc
